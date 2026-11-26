@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+    // Kiem tra dong bo GitHub
     KhoaHoc kh;
 
     cout << "=== 1. THEM THI SINH ===" << endl;
